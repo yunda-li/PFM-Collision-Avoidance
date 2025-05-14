@@ -17,8 +17,3 @@ the center of environment first.
 
 With many steps, the planner can take a while to plot. The terminal will print the progress of the plotting.
 Most collision avoidance can be seen at around 1000 steps.
-
-Dependencies:
-    import numpy as np
-    from matplotlib import pyplot as plt
-    from matplotlib.lines import Line2D 
